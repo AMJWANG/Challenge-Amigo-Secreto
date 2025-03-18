@@ -1,4 +1,5 @@
 <h1>Challenge Amigo Secreto</h1>
+
 ### Descripción 
 ""Amigo Secreto" es una aplicación interactiva creada en JavaScript, basada en la dinámica del juego del número secreto."
 
